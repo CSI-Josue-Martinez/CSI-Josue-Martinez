@@ -22,4 +22,7 @@ Personajes Es el personaje principal. Puede ser humanoide, animales, carro de ca
 ####Deben retar al jugador con algun tipo de reto. 
 
 ###Controles 
-####Con los controles es más facil seguir la dominar el juego. Son el: Teclado, Raton, Sensor de movimiento, Joysticks 
+####Con los controles es más facil seguir la dominar el juego. Son el: Teclado, Raton, Sensor de movimiento, Joysticks. 
+
+##Dificutad
+### Dificultad
