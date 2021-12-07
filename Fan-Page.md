@@ -21,16 +21,17 @@
 <br>
 
 <div align="center">
-    <img    src="https://i.ytimg.com/vi/HeGm0cqQbyQ/maxresdefault.jpg"
+    <img    src=https://oncubanews.com/wp-content/uploads/2019/09/cuba-voly-simon.jpg
             title="Robertlandy Simon"
             width="50%"
             height="50%" 
             />
 
 <p style = "text index: 2cm; font-family: Comic Sans MS; font-size:150%"
-            Robertlandy Simón Aties (born 11 June 1987) is a Cuban volleyball player, a member of Cuba men national volleyball team from 2005–2010 and from 2019 to present day and also Italian club Cucine Lube Civitanova, 2009 NORCECA Champion, silver medalist of the 2010 World Championship, double South Korean Champion (2015, 2016).
+            Robertlandy Simón Aties (born 11 June 1987) is a Cuban volleyball player, a member of Cuba men national volleyball team from 2005–2010 and from 2019 to present day               and also Italian club Cucine Lube Civitanova, 2009 NORCECA Champion, silver medalist of the 2010 World Championship, double South Korean Champion (2015, 2016).
 
-
+   </p>
+   
 <br>
 
 
@@ -66,6 +67,7 @@
     <tr>
         <th>Height/th>
       <td>(6'9)</td>
+      <td>
 </table>
 
 
