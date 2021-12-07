@@ -14,7 +14,7 @@
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:150%">
-            Robertlandy Simon is the best middle blocker in the world. He has become the richest man in Cuba. Entered the national team at age 17. Simon Aties was Cuban public group commander for a very long time
+            Robertlandy Simon is the best middle blocker in the world. He has become the richest man in Cuba. Entered the national team at age 17. Simon Aties was Cuban public group commander for a very long time.
     
 </p>
 
@@ -27,9 +27,18 @@
             height="50%" 
             />
 
-<p style = "text index: 2cm; font-family: Comic Sans MS; font-size:150%"
-            Robertlandy Simón Aties (born 11 June 1987) is a Cuban volleyball player, a member of Cuba men national volleyball team from 2005–2010 and from 2019 to present day               and also Italian club Cucine Lube Civitanova, 2009 NORCECA Champion, silver medalist of the 2010 World Championship, double South Korean Champion (2015, 2016).
-
+<p style = "text index: 2cm; font-family: Comic Sans MS; font-size:150%">
+            Robertlandy Simón is a Cuban volleyball player. Member of Cuba men national volleyball team from 2005–2010 and from 2019 to present day. Italian club Cucine Lube Civitanova, 2009 NORCECA Champion, silver medalist of the 2010 World Championship, double South Korean Champion (2015, 2016).
+ 
+    
+<div align="center">
+     <img src="https://i.ytimg.com/vi/k9ltvpW8gko/maxresdefault.jpg"
+     title="Robertlandy Simon"
+     width="50%"
+     height="50%"
+     />
+<p style = "text index: 2cm; font-family: Comic Sans MS; font-size:150%">
+            On October 10, 2010 he achieved silver medal. He was Best Blocker of the tournament. Simon was champion of the Italian Cup 2013/14 and of the Challenge Cup 2012/13 . He used to be the world’s Best Middle Blocker before he left Cuba after the 2010 World Championship to pursue his dreams and to make a decent living overseas. Simon won 2014 Club World Championship. He was the most expensive player in South Korea League from 2014 to 2016.
    </p>
    
 <br>
@@ -65,9 +74,18 @@
         <td>Gemini</td>
     </tr>
     <tr>
-        <th>Height/th>
-      <td>(6'9)</td>
-      <td>
+        <th>Height</th>
+      <td>(6'9)</td>  
+    </tr>
+    <tr>
+        <th>Championships</th>
+        <td>19championships</td>
+    </tr>
+    <tr>
+        <th>
+        <td>
+        
+    
 </table>
 
 
