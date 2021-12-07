@@ -6,13 +6,15 @@
             width="50%"
             height="50%" 
             />
+            
 </div>
 
 <h2 align="center" > Volleyball player, Best Middle blocker, Richest man in Cuba Fan Page! </h2>
 
 <br>
 
-<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:150%">
+            Robertlandy Simon is the best middle blocker in the world. He has become the richest man in Cuba. Entered the national team at age 17. Simon Aties was Cuban public group commander for a very long time
     
 </p>
 
@@ -24,7 +26,10 @@
             width="50%"
             height="50%" 
             />
-</div>
+
+<p style = "text index: 2cm; font-family: Comic Sans MS; font-size:150%"
+            Robertlandy Simón Aties (born 11 June 1987) is a Cuban volleyball player, a member of Cuba men national volleyball team from 2005–2010 and from 2019 to present day and also Italian club Cucine Lube Civitanova, 2009 NORCECA Champion, silver medalist of the 2010 World Championship, double South Korean Champion (2015, 2016).
+
 
 <br>
 
@@ -67,5 +72,5 @@
 <br><br>
 
 <p>
-    <i>Made by: <u>Carlos Jose Cobian</u> on December 2, 2021</i>
+    <i>Made by: <u></u> on December 7, 2021</i>
 </p>
