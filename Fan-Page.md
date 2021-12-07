@@ -38,10 +38,9 @@
      height="50%"
      />
 <p style = "text index: 2cm; font-family: Comic Sans MS; font-size:150%">
-            On October 10, 2010 he achieved silver medal. He was Best Blocker of the tournament. Simon was champion of the Italian Cup 2013/14 and of the Challenge Cup 2012/13 . He used to be the world’s Best Middle Blocker before he left Cuba after the 2010 World Championship to pursue his dreams and to make a decent living overseas. Simon won 2014 Club World Championship. He was the most expensive player in South Korea League from 2014 to 2016.
+            On October 10, 2010 he achieved silver medal. He was Best Blocker of the tournament. Simon was champion of the Italian Cup 2013/14 and of the Challenge Cup 2012/13 . He used to be the world’s Best Middle Blocker before he left Cuba after the 2010 World Championship. Simon won 2014 Club World Championship. He was the most expensive player in South Korea League from 2014 to 2016.
     
-    <td><a href="https://www.youtube.com/watch?v=k9ltvpW8gko"
-    <td>
+    <td><a href="https://www.youtube.com/watch?v=k9ltvpW8gko"> Robertlandy Simon Aties</a></td>
    </p>
    
 <br>
